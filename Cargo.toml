@@ -1,0 +1,11 @@
+[package]
+name = "ltm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.37.0", default-features = false, features = ["default_fonts", "glow"] }
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"
+winreg = "0.52"
+image = { version = "0.25", default-features = false, features = ["png"] }
