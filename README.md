@@ -10,7 +10,10 @@
   <img src="https://img.shields.io/github/license/lowkeyrenato/Lightweight-Temperature-Monitor" />
 </p>
 
-![LTM screenshot]()
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0835036-925b-4c62-84e2-60c7ce95b79c" width="48%" alt="LTM Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/f43ed6e0-c8b9-47d9-aca1-b6542f59eff6" width="48%" alt="LTM Screenshot 1">
+</p>
 
 LTM shows hardware temperatures and nothing else. No fan curves, no dashboards, no background bloat. Download it, extract it, run it.
 
