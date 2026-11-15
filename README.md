@@ -24,7 +24,6 @@ LTM shows hardware temperatures and nothing else. No fan curves, no dashboards, 
 - Estimated CPU, RAM and VRM values (see [Sensor sources](#sensor-sources))
 - Configurable refresh rate (0.5–3.0 s) and max scale (up to 200 °C)
 - 9 temperature scales, including Celsius, Fahrenheit and Kelvin
-- Glassmorphic UI that fits the Windows 11 look
 - Settings saved to `%APPDATA%\LTM\config.toml`
 
 ## Download
